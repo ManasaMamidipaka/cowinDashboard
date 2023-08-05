@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.age-card-container {
+  background-color: #1c2c2b;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.age-card-heading {
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 600;
+  color: #cbd5e1;
+}

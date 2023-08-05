@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.coverage-card-container {
+  background-color: #1c1c2b;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.coverage-card-heading {
+  font-family: 'Roboto';
+  color: #cbd5e3;
+  font-size: 28px;
+  font-weight: 600;
+}
